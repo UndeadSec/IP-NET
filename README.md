@@ -1,6 +1,6 @@
 IP?NET
 ==
-Simple script to check if IPs matches networks
+Simple script to bulk check if IPs match networks
 
 ### CLONE
 ```
